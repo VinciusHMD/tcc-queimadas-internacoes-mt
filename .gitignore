@@ -1,0 +1,17 @@
+# ignora tudo na pasta e libera só o que vai para o repositório
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/tcc_queimadas_X_internacoes_MT.ipynb
+!/figuras_relatorio.py
+
+# gráficos e resultados finais (pequenos, ajudam quem lê o repositório)
+!/grafico1_serie_mensal_multiano.png
+!/grafico2_modelo_multiano.png
+!/resultados_modelos_multiano.csv
+!/corr_efeitos_fixos_multiano.csv
+!/perfil_clusters_multiano.csv
+!/perfil_municipios_multiano.csv
+!/base_painel_multiano.csv
+!/resumo_mensal_multiano.csv

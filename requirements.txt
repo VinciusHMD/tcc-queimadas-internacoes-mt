@@ -1,0 +1,7 @@
+pandas==2.3.3
+numpy==1.26.4
+matplotlib==3.10.9
+pyspark==3.5.4
+pyarrow==25.0.1
+pysus==2.3.0
+requests
